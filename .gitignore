@@ -1,0 +1,63 @@
+# 이클립스 관련 파일
+.project
+.classpath
+.settings/
+
+# Maven 빌드 출력
+target/
+
+# Gradle 빌드 출력
+build/
+
+# IDE 관련 파일
+*.iml
+.idea/
+*.swp
+*.swo
+*.swn
+*.log
+
+# 임시 파일
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# Maven 로컬 저장소
+.m2/repository/
+
+# Eclipse에서 생성된 파일
+*.launch
+*.classpath
+*.project
+.settings/
+
+# Spring Boot 관련 파일
+spring-boot-devtools
+
+# 데이터베이스 관련 파일
+*.db
+*.sql
+*.sqlite
+
+# 환경 설정 파일
+.env
+
+# 자바 파일 컴파일
+*.class
+
+# 테스트 관련
+*.test
+
+# 기타
+*.jar
+*.war
+*.ear
+src/main/webapp/WEB-INF/spring/jdbc-context.xml
